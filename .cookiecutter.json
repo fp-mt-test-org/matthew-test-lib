@@ -1,0 +1,15 @@
+{
+    "_template": "https://github.com/fp-mt-test-org/template-java-kotlin-library",
+    "artifact_id": "matthew-test-lib",
+    "component_id": "matthew-test-lib",
+    "description": "matthew-test-lib",
+    "destination": {
+        "git": {
+            "name": "matthew-test-lib",
+            "owner": "fp-mt-test-org"
+        }
+    },
+    "java_package_name": "matthewtestlib",
+    "owner": "Product Infrastructure",
+    "storePath": "https://github.com/fp-mt-test-org/matthew-test-lib"
+}

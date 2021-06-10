@@ -1,0 +1,11 @@
+flex:
+  version: 0.5.1
+  workflows:
+    setup-dependencies:
+      command: pip3 install battenberg
+    build:
+      command: ./gradlew build
+    update-template:
+      command: battenberg upgrade --no-input
+service:
+  name: 'matthew-test-lib'
