@@ -1,0 +1,36 @@
+{
+    "_template": "/var/folders/3z/qpmfl8q908x43zcc0hm8p6380000gq/T/f4f77dfb-6357-49c2-a013-9b83d78e7abe/template",
+    "access": "fp-mt",
+    "artifact_id": "matthew-test-lib",
+    "component_id": "matthew-test-lib",
+    "description": "matthew-test-lib",
+    "destination": {
+        "git": {
+            "filepath": "",
+            "filepathtype": "",
+            "full_name": "fp-mt-test-org/matthew-test-lib",
+            "git_suffix": "False",
+            "hash": "",
+            "href": "https://github.com/fp-mt-test-org/matthew-test-lib",
+            "name": "matthew-test-lib",
+            "organization": "fp-mt-test-org",
+            "owner": "fp-mt-test-org",
+            "pathname": "/fp-mt-test-org/matthew-test-lib",
+            "port": null,
+            "protocol": "https",
+            "protocols": [
+                "https"
+            ],
+            "query": {},
+            "ref": "",
+            "resource": "github.com",
+            "search": "",
+            "source": "github.com",
+            "token": "",
+            "user": ""
+        }
+    },
+    "java_package_name": "matthewtestlib",
+    "owner": "Product Infrastructure",
+    "storePath": "https://github.com/fp-mt-test-org/matthew-test-lib"
+}

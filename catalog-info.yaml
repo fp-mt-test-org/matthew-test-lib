@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "matthew-test-lib"
+  description: "matthew-test-lib"
+  annotations:
+    github.com/project-slug: fp-mt-test-org/matthew-test-lib
+    backstage.io/techdocs-ref: url:https://github.com/fp-mt-test-org/matthew-test-lib
+    backstage.io/kubernetes-id: matthew-test-lib
+spec:
+  type: library
+  lifecycle: experimental
+  owner: "Product Infrastructure"
